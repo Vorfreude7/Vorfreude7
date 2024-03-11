@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sandra Otalo! <br/><a href="https://github.com/Vorfreude7">IT Security Engineer</a>, <a href="www.linkedin.com/in/sandra-otalo-b7ba39126/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@enarmi17">YouTuber</a></h1>
+<h1>Hi, I'm Sandra Otalo! <br/><a href="https://github.com/Vorfreude7">IT Security Engineer</a>, <a href="www.linkedin.com/in/sandra-otalo-b7ba39126/">Cybersecurity Professional</a>, 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
