@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sandra Otalo! <br/><a href="https://github.com/Vorfreude7">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sandra-otalo-b7ba39126/">IT Security Engineer</a>, 
+<h1>Hi, I'm Sandra Otalo! <br/><a href="https://github.com/Vorfreude7">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sandra-otalo-b7ba39126/">IT Security Engineer</a>
 
 
 [Brief Introduction]
