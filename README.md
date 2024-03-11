@@ -1,8 +1,5 @@
 <h1>Hi, I'm Sandra Otalo! <br/><a href="https://github.com/Vorfreude7">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sandra-otalo-b7ba39126/">IT Security Engineer</a>
 
-
-[Brief Introduction]
-
 👋 Welcome to my GitHub profile! I'm passionate about ensuring digital landscapes remain secure against evolving threats. With a focus on proactive defense strategies and ethical hacking techniques, I work to fortify systems and protect data from malicious actors.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
